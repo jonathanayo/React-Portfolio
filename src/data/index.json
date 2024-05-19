@@ -1,0 +1,52 @@
+{
+    "skills": [
+        {
+            "id" : "1",
+            "src" : "./img/frontend.png",
+            "title" : "Front-End",
+            "description" : "I am proficient in front-end development, utilizing frameworks like Vue.js and React to create responsive and dynamic user interfaces. My skills in HTML and CSS ensure that I can craft visually appealing layouts that are both functional and accessible across different devices and platforms. These technologies allow me to effectively translate design concepts into fully functional and user-friendly web applications."
+        },
+        {
+            "id" : "2",
+            "src" : "./img/backend.png",
+            "title" : "Back-End",
+            "description" : "I have strong backend development skills, primarily using Spring Boot and Go. With Spring Boot, I excel in building robust, scalable microservices and RESTful APIs, enhancing application functionality and server-side logic. My experience with Go adds to my capability in creating efficient, concurrent server applications that perform well under high loads. These skills enable me to ensure smooth data transactions and integrate various services seamlessly into comprehensive backend solutions."
+        },
+        {
+            "id" : "3",
+            "src" : "./img/QA.png",
+            "title" : "Q+A and Testing",
+            "description" : "I also have experience in manual testing, utilizing tools like Jira Xray to create and execute test cases effectively. This hands-on approach allows me to thoroughly validate software functionality, identify potential issues, and ensure that all aspects of the application meet quality standards. Combining manual testing with automated approaches like TestCafe provides comprehensive coverage, enabling me to deliver robust and reliable software solutions."
+        },
+        {
+            "id" : "4",
+            "src" : "./img/techw.png",
+            "title" : "Technical Writing",
+            "description" : "I have strong technical writing skills, supported by practical experience and formal education. I've contributed to professional reports, like the one for the Ocean Networks Canada Problem Solution Project, demonstrating my ability to explain complex concepts clearly. Additionally, I've taken multiple technical writing classes, enhancing my ability to create well-structured and accessible documentation for diverse audiences."
+        }
+
+    ],
+    "portfolio": [
+        {
+          "id": "1",
+          "src": "./img/fpapriori.gif",
+          "title": "Apriori Algorithm: Functional Programming",
+          "description": "I built and Apriori Algorithm in SML that scans csv files and creates a dictionary of popular items above a given support threshold in a first pass of the data. Then in a second pass of the data another dictionary containing all the popular pairs above the given support threshold from the first pass is created. This is programmed using functional programming practices and completes large files in a reasonable amount of time. Fun fact is that it does not contain a single loop in the program! (support threshold is the minimum number of times an item must appear in the transactions to be added to the respected dictionary.",
+          "link": "View In Github"
+        },
+        {
+          "id": "2",
+          "src": "./img/placeholder-image-1.png",
+          "title": "Computer Graphics Scenes",
+          "description": "Used WebGL and Javascript to create scenes using custom shaders, shapes, and sin + cos functions",
+          "link": "View In Github"
+        },
+        {
+          "id": "3",
+          "src": "./img/placeholder-image-2.png",
+          "title": "Figuring out what to add",
+          "description": "figuring out what to add",
+          "link": "View In Github"
+        }
+      ]
+}
