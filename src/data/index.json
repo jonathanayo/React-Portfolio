@@ -36,14 +36,14 @@
         },
         {
           "id": "2",
-          "src": "./img/placeholder-image-1.png",
+          "src": "./img/animations.gif",
           "title": "Computer Graphics Scenes",
           "description": "Used WebGL and Javascript to create scenes using custom shaders, shapes, and sin + cos functions",
           "link": "View In Github"
         },
         {
           "id": "3",
-          "src": "./img/placeholder-image-2.png",
+          "src": "./img/comingsoon.gif",
           "title": "Figuring out what to add",
           "description": "figuring out what to add",
           "link": "View In Github"

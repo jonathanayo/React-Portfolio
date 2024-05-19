@@ -3,7 +3,7 @@ export default function HeroSection() {
         <section id ="heroSection" className = "hero--section">
             <div className="hero--section--content--box">
                 <div className="hero--section-content">
-                    <p className="section--title">Hello, I'm Jonathan</p>
+                    <p className="section--title">Hello, I'm Jonathan!</p>
                     <h1 className="hero--section--title">
                         <span className="hero--section--title--color">
                         Junior
@@ -18,10 +18,12 @@ export default function HeroSection() {
                     <br /> With a Specialization in Software-Systems
                     </p>
                 </div>
+                <p>PHONE NUMBER: 587-577-5985</p>
+                <p>EMAIL: jonathan.ayotte@outlook.com</p>
                 <a href="./img/Jonathan_Ayotte(.Resume.).pdf" download="Jonathan_Ayotte(.Resume.).pdf">
                     <button className="btn btn-primary">Download My Resume</button>
                 </a>
-                
+
             </div>
             <div className="hero--section--image">
             <img src="./img/meee.png" alt="Hero Section"/>

@@ -25,10 +25,12 @@ body {
     --white: #ffffff;
   }
   .btn {
+    margin-top: 35px;
+    margin-bottom: 35px;
     font-family: "Roboto";
     display: inline-block;
     padding: 14px 32px;
-    font-size: 16px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: 24px;
@@ -221,12 +223,16 @@ body {
   }
   .hero--section--title--color {
     color: var(--primary);
+    
   }
-  .hero--section-description {
+  .hero--section--description {
     color: var(--darkblue);
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400;
     line-height: 36px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
   }
   .hero--section--img {
     display: flex;
