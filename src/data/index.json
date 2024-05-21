@@ -32,21 +32,28 @@
           "src": "./img/fpapriori.gif",
           "title": "Apriori Algorithm: Functional Programming",
           "description": "I built and Apriori Algorithm in SML that scans csv files and creates a dictionary of popular items above a given support threshold in a first pass of the data. Then in a second pass of the data another dictionary containing all the popular pairs above the given support threshold from the first pass is created. This is programmed using functional programming practices and completes large files in a reasonable amount of time. Fun fact is that it does not contain a single loop in the program! (support threshold is the minimum number of times an item must appear in the transactions to be added to the respected dictionary.",
-          "link": "View In Github"
+          "link": "Working on link (full GH above)"
         },
         {
           "id": "2",
           "src": "./img/animations.gif",
           "title": "Computer Graphics Scenes",
-          "description": "Used WebGL and Javascript to create scenes using custom shaders, shapes, and sin + cos functions",
-          "link": "View In Github"
+          "description": "Using WebGL and Javascript I created some computer graphics scenes. The first is a basic scuba diver and fish, which just focuses on object composition, connected shapes/structures, and animating the shapes/structures using a timestamp and sin and/or cos functions. The second is 3 rabbits dancing around a fire. This time around I implemented textures and converted my ADS shader to a fragments shader for smoother lighting. Also animated the camera to move around the scene and also switch the lighing from Phong to Blinn-Phong lighting",
+          "link": "Working on link (full GH above)"
+        },
+        {
+          "id": "3",
+          "src": "./img/oncani.gif",
+          "title": "Ocean Networks Canada Requirements Engineering Final Report",
+          "description": "The Ocean Networks Canada Problem Solution Project involved developing theoretical solutions to real-world problems using principles of requirements engineering. The project focused on honing analytical and planning skills, highlighting the importance of initial stages of project development, effective teamwork, and problem-solving capabilities. Throughout the project, tasks included brainstorming, prototyping, creating UML diagrams, and writing professional reports for the solution at each milestone. The culmination of these efforts resulted in a well-received solution proposal.",
+          "link": "Working on link (full GH above)"
         },
         {
           "id": "3",
           "src": "./img/comingsoon.gif",
           "title": "Figuring out what to add",
           "description": "figuring out what to add",
-          "link": "View In Github"
+          "link": "Working on link (full GH above)"
         }
       ]
 }
